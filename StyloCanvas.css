@@ -1,0 +1,13 @@
+#canvas{
+  color: #fff;
+  background:black;
+  border: 2px solid blue;
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: window.height;
+}
+
+body{
+	background: url("imag/fondo4.jpg");
+}
